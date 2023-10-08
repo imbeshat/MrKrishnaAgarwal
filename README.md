@@ -61,7 +61,7 @@
 
 - <h4>:mailbox:How to reach me: </h4>
 
-<a herf= "mailto:dmkrishna.agarwal@gmail.com"> **Email:** dmkrishna.agarwal@gmail.com </a>
+<a herf= "mailto:dmkrishna.agarwal@gmail.com"> **Email: dmkrishna.agarwal@gmail.com** </a>
 
 <div align="center">
 
